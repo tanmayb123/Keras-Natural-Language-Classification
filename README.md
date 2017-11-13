@@ -1,4 +1,4 @@
-# Spam Classification via Neural Networks in Keras
+# Natural Language Classification via Neural Networks in Keras
 
 Welcome! This repo contains the code to classify natural language sentences via Neural Networks, all coded in the Keras library.
 
